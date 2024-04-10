@@ -16,8 +16,8 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 
 <h3>Build</h3>
 
-```docker run <seu-user>/fullcycle```
+```docker run <seu-user>/go-docker```
 
 <h3>Executando o container</h3>
 
-```docker run --rm jadnasilva/fullcycle```
+```docker run jadnasilva/go-docker```
